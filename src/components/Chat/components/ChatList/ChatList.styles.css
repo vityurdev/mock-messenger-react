@@ -1,0 +1,7 @@
+.chat__list {
+  overflow-y: auto;
+  flex: 1 0;
+}
+.chat__list::-webkit-scrollbar {
+  display: none;
+}
